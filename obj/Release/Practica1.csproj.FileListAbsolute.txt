@@ -1,0 +1,11 @@
+C:\Users\Francisco Suarez\source\repos\Practica1\bin\Release\Practica1.exe.config
+C:\Users\Francisco Suarez\source\repos\Practica1\bin\Release\Practica1.exe
+C:\Users\Francisco Suarez\source\repos\Practica1\bin\Release\Practica1.pdb
+C:\Users\Francisco Suarez\source\repos\Practica1\obj\Release\Practica1.csprojAssemblyReference.cache
+C:\Users\Francisco Suarez\source\repos\Practica1\obj\Release\Practica1.Interface1.resources
+C:\Users\Francisco Suarez\source\repos\Practica1\obj\Release\Practica1.Interface2.resources
+C:\Users\Francisco Suarez\source\repos\Practica1\obj\Release\Practica1.Properties.Resources.resources
+C:\Users\Francisco Suarez\source\repos\Practica1\obj\Release\Practica1.csproj.GenerateResource.cache
+C:\Users\Francisco Suarez\source\repos\Practica1\obj\Release\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Suarez\source\repos\Practica1\obj\Release\Practica1.exe
+C:\Users\Francisco Suarez\source\repos\Practica1\obj\Release\Practica1.pdb
